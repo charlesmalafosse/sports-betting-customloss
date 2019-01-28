@@ -9,3 +9,5 @@ We set up our custom loss function with Keras on top of TensorFlow.
 
 For more info please check our article on medium
 https://medium.com/@media_73863/machine-learning-for-sports-betting-not-a-basic-classification-problem-b42ae4900782
+
+And check https://betsentiment.com/ for Fan Sentiment Analysis and Machine Learning applied to sports betting.
